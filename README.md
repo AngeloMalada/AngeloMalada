@@ -54,8 +54,8 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://stats.glitchlabs.dev/api/section/projects?username=angelomalada&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64404406%3Fv%3D4&repos=angelomalada%2FAngeloMalada%2Cangelomalada%2Fomni&v=recruiter-projects-1&mode=light" />
-  <img src="https://stats.glitchlabs.dev/api/section/projects?username=angelomalada&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64404406%3Fv%3D4&repos=angelomalada%2FAngeloMalada%2Cangelomalada%2Fomni&v=recruiter-projects-1&mode=dark" width="100%" alt="Angelo Malada selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=angelomalada&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64404406%3Fv%3D4&repos=angelomalada%2FAngeloMalada%2Cangelomalada%2Fomni&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=angelomalada&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64404406%3Fv%3D4&repos=angelomalada%2FAngeloMalada%2Cangelomalada%2Fomni&v=recruiter-projects-1&mode=dark" width="100%" alt="Angelo Malada selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
@@ -94,8 +94,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://stats.glitchlabs.dev/api/section/heatmap?username=angelomalada&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64404406%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://stats.glitchlabs.dev/api/section/heatmap?username=angelomalada&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64404406%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Angelo Malada contribution activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=angelomalada&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64404406%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=angelomalada&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64404406%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Angelo Malada contribution activity" />
 </picture>
 </p>
 
