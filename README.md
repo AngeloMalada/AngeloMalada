@@ -14,7 +14,7 @@
 
 ## Selected work
 
-<img src="https://stats.glitchlabs.dev/api/projects?repos=glitchlabsdev/fitevy,angelomalada/elevate-ai-monorepo,angelomalada/dotaverse" width="100%" alt="Selected work" />
+<img src="https://stats.glitchlabs.dev/api/projects?repos=glitchlabsdev/fitevy,angelomalada/elevate-ai-monorepo" width="100%" alt="Selected work" />
 
 ## Technical toolkit
 
