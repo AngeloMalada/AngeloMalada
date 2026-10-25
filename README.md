@@ -9,7 +9,7 @@
 
 ## Selected work
 
-<img src="https://stats.glitchlabs.dev/api/projects?repos=angelomalada/fitevy,glitchlabsdev/dotaverse" width="100%" alt="Selected work" />
+<img src="https://stats.glitchlabs.dev/api/projects?repos=glitchlabsdev/fitevy,angelomalada/dotaverse" width="100%" alt="Selected work" />
 
 ## Technical toolkit
 
