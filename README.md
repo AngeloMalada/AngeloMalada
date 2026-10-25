@@ -5,11 +5,16 @@
 <a href="https://github.com/angelomalada">GitHub</a> · <a href="https://www.linkedin.com/in/angelomalada/">LinkedIn</a> · <a href="https://glitchlabs.dev">Website</a>
 </p>
 
+
+## Organizations
+
+<img src="https://stats.glitchlabs.dev/api/orgs?username=angelomalada" width="100%" alt="Organizations" />
+
 <img src="https://stats.glitchlabs.dev/api/stats?username=angelomalada" width="100%" alt="Profile signal" />
 
 ## Selected work
 
-<img src="https://stats.glitchlabs.dev/api/projects?repos=glitchlabsdev/fitevy,angelomalada/dotaverse" width="100%" alt="Selected work" />
+<img src="https://stats.glitchlabs.dev/api/projects?repos=glitchlabsdev/fitevy,angelomalada/elevate-ai-monorepo" width="100%" alt="Selected work" />
 
 ## Technical toolkit
 
